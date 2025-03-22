@@ -1,0 +1,20 @@
+{
+	"applications": [
+		{
+			"app_key": "no_vendor.openvr_ambient_light",
+			
+			"launch_type": "binary",
+			
+			"binary_path_windows": "openvr_ambient_light.exe",
+			"arguments" : "--minimized",
+			
+			"is_dashboard_overlay": true,
+			"strings": {
+				"en_us": {
+					"name": "OpenVR Ambient Light",
+					"description": "Drives in-HMD ambient lighting."
+				}
+			}
+		}
+	]
+}

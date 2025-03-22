@@ -1,3 +1,15 @@
 [submodule "external/openvr"]
 	path = external/openvr
 	url = https://github.com/ValveSoftware/openvr.git
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "external/spdlog"]
+	path = external/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "external/simpleini"]
+	path = external/simpleini
+	url = https://github.com/Rectus/simpleini.git
+[submodule "external/implot"]
+	path = external/implot
+	url = https://github.com/epezent/implot.git
